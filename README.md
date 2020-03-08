@@ -6,4 +6,6 @@
 、百度疫情热搜（网址：https://voice.baidu.com/act/virussearch/virussearch?from=osari_map&tab=0&infomore=1）
 上爬取疫情相关信息并存入本地的MySQL数据库中，爬虫见spider.py和spider_for_baidu_hot.py。
 
-然后，使用flask搭建web，并使用echarts绘制交互式的地理信息图、疫情趋势图等。
+然后，使用flask搭建web，并使用echarts绘制交互式的地理信息图、疫情趋势图等，效果图如下。
+
+https://github.com/Gltuser/spider-web/raw/master/show.jpg
