@@ -8,4 +8,4 @@
 
 然后，使用flask搭建web，并使用echarts绘制交互式的地理信息图、疫情趋势图等，效果图如下。
 
-https://github.com/Gltuser/spider-web/raw/master/show.jpg
+![image](https://github.com/Gltuser/spider-web/raw/master/show.jpg)
