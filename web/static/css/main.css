@@ -1,0 +1,115 @@
+body{
+	background-color: #333333;
+}
+#title{
+	position: absolute;
+	height:10%;
+	width: 40%;
+	top: 0;
+	left: 30%;
+	/* background-color: #EED3D7; */
+	color: white;
+	font-size: 1.875rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+#time{
+	position: absolute;
+	height:10%;
+	/* width: 30%; */
+	top: 5%;
+	right: 2%;
+	color: white;
+	/* background-color: #77a1ee; */
+}
+
+/* #swich{
+	position: absolute;
+	height:10%;
+	width: 30%;
+	top: 0%;
+	left: 0%;
+	background-color: #77a1ee;
+} */
+
+#author{
+	position: absolute;
+	height:10%;
+	width: 30%;
+	top: 0%;
+	left: 0%;
+	color: wheat
+	/* background-color: #77a1ee; */
+}
+
+#c1{
+	position: absolute;
+	height: 20%;
+	width: 40%;
+	top: 10%;
+	left: 30%;
+	/* background-color: #59493f; */
+}
+.num{
+	width: 16.66%;
+	height: 50%;
+	float: left;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: gold;
+	font-size: 1.5625rem;
+}
+
+.text{
+	width: 16.66%;
+	float: left;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: '幼圆';
+	color: white;
+	font-size: 1.25rem;
+}
+#c2{
+	position: absolute;
+	height:70%;
+	width: 40%;
+	top: 30%;
+	left: 30%;
+	/* background-color: #ee71ae; */
+}
+#l1{
+	position: absolute;
+	height:45%;
+	width: 30%;
+	top: 10%;
+	left: 0%;
+	background-color: #b1eeba;
+}
+#l2{
+	position: absolute;
+	height:45%;
+	width: 30%;
+	top: 55%;
+	left: 0%;
+	background-color: #ee9cd2;
+}
+#r1{
+	position: absolute;
+	height:45%;
+	width: 30%;
+	top: 10%;
+	right: 0%;
+	background-color: #58dfee;
+}
+#r2{
+	position: absolute;
+	height:45%;
+	width: 30%;
+	top: 55%;
+	right: 0%;
+	background-color: #77a1ee;
+}
+
